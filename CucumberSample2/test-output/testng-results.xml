@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17429" started-at="2019-11-20T06:41:26Z" finished-at="2019-11-20T06:41:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17429" started-at="2019-11-20T06:41:26Z" finished-at="2019-11-20T06:41:43Z">
+      <class name="POMPack.PomMethod2">
+        <test-method status="PASS" signature="f()[pri:0, instance:POMPack.PomMethod2@649d209a]" name="f" duration-ms="17404" started-at="2019-11-20T12:11:26Z" finished-at="2019-11-20T12:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- POMPack.PomMethod2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
